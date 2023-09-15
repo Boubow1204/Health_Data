@@ -14,7 +14,7 @@ This data contains the following:
     <li>smoke: 1 for yes, and 0 for no</li>
     </ul>
     
-   The data-set aims to answer the following key questions:
+   The analysis on the data set aimed to answer the following key questions:
     <ol>
     <li>Do people over 50 years have higher cholestero levels?</li>
     <li>How much heavier is the age group with the highest average weight than the age group with the lowest weight</li>
